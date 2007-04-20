@@ -4,7 +4,7 @@
 
 Summary:	%{_pearname} - API for PHP
 Name:		php-pear-%{_pearname}
-Version:	0.2.2
+Version:	0.2.3
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
