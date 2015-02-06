@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.4
-Release:	6
+Release:	7
 Summary:	API for PHP
 License:	PHP License
 Group:		Development/PHP
