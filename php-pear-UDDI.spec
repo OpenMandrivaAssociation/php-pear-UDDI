@@ -7,7 +7,7 @@ Release:	7
 Summary:	API for PHP
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/UDDI/
+URL:		https://pear.php.net/package/UDDI/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
